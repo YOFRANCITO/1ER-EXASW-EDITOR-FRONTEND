@@ -1,0 +1,37 @@
+{
+  "project": {
+    "assets": [],
+    "styles": [],
+    "pages": [
+      {
+        "frames": [
+          {
+            "component": {
+              "type": "wrapper",
+              "stylable": [
+                "background",
+                "background-color",
+                "background-image",
+                "background-repeat",
+                "background-attachment",
+                "background-position",
+                "background-size"
+              ],
+              "head": {
+                "type": "head"
+              },
+              "docEl": {
+                "tagName": "html"
+              }
+            },
+            "id": "kwkGX0kUOspfUkMv"
+          }
+        ],
+        "type": "main",
+        "id": "nHJnW83DIYdY60J5"
+      }
+    ],
+    "symbols": [],
+    "dataSources": []
+  }
+}
