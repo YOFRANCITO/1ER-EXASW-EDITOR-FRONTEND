@@ -7,7 +7,8 @@ import { catchError, retryWhen, delay, scan } from 'rxjs/operators';
   providedIn: 'root'
 })
 export class GeminiService {
-  private apiKey = 'AIzaSyDh2Jf6iGLq9FqiT-wwFXYZXYPwqHCTrDE';
+  private apiKey = 'gemini-api';
+
   private apiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
   constructor(private http: HttpClient) {}

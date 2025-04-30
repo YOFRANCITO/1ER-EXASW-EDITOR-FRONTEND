@@ -13,6 +13,6 @@ file, You can obtain one at https://www.jointjs.com/license
 
  export const environment = {
     production: true,
-    openAIApiKey: 'sk-M1XGc_htei91pN_U8BVbYNznbnXeQWBhKI5_hWACiET3BlbkFJEH4yFiauwW3LBKwKYAhhNc2Gm0ngcZ2ZwUVMAL1xcA'
+    openAIApiKey: 'sk-open'
   };
   
